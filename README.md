@@ -4,7 +4,14 @@
 
 ### SOFTWARE DEVELOPER
 
-`Code • Build • Improve`
+`CODE • BUILD • IMPROVE`
+
+<br>
+
+[![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ffffff)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![Discord.js](https://img.shields.io/badge/Discord.js-111111?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.js.org/)
 
 </div>
 
@@ -12,11 +19,12 @@
 
 ## 👋 About Me
 
-💻 Developer focused on **Java & JavaScript**
+> Software developer focused on building useful, efficient and creative systems.
 
-🎮 Minecraft & Discord development
-
-🚀 Building projects and learning every day
+🎮 Minecraft development  
+🤖 Discord bots & automation  
+💻 Java & JavaScript  
+🚀 Always building something new
 
 ---
 
@@ -24,13 +32,12 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-000?style=for-the-badge&logo=discord&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-000?style=for-the-badge&logo=gradle&logoColor=white)
+| Development | Tools |
+|---|---|
+| ☕ Java | 🟣 Spigot |
+| 🟨 JavaScript | 🟢 Node.js |
+| 🌐 HTML / CSS | 🔧 Git |
+| 🤖 Discord.js | 📦 Gradle |
 
 </div>
 
@@ -40,15 +47,15 @@
 
 ### 🎮 Minecraft Plugins
 
-Minecraft plugins with custom systems, events and mechanics.
+Custom Minecraft plugins, events, mechanics and server systems.
 
 ### 🤖 Discord Bots
 
-Discord bots with moderation, tickets, forms and custom commands.
+Bots with moderation, tickets, forms, commands and server management.
 
 ### 🖥️ Server Systems
 
-Tools and utilities for Minecraft servers and networks.
+Tools and utilities designed for Minecraft servers and networks.
 
 ---
 
@@ -56,16 +63,18 @@ Tools and utilities for Minecraft servers and networks.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117">
 
 </div>
 
 ---
 
-<div align="center">
+## ⚡ Currently Building
 
-### ⚡ Currently Building
-
-Minecraft Systems • Discord Automation • New Projects
-
-</div>
+```text
+🎮 Minecraft Systems
+🤖 Discord Automation
+🌐 Web Projects
+🚀 New Ideas
