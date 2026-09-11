@@ -55,8 +55,8 @@
 
 Custom Minecraft plugins and server systems.
 
-- ⚔️ ZyonAC (GrimAC-based anticheat)
-- 👻 SapekinhaAC (C++ ghost client)
+- ⚔️ ZyonAC 
+- 👻 Sapecas (C++ ghost client)
 - 🏰 Factions & Events
 - 🎯 Minigames
 - ⚙️ Custom Mechanics
@@ -71,9 +71,9 @@ Custom bots, panels and automation.
 
 - 🛡️ Moderation & Tickets
 - 📋 Admin Panels
-- 🔔 Instagram Chatbot (Tavares)
-- 💉 Injector GUIs (Win32)
-- ⚙️ WantedXZ (C++ console app)
+- 🔔 Instagram Chatbot
+- 💉 Injector GUIs
+- ⚙️ Sapecas
 
 </td>
 
