@@ -95,9 +95,9 @@ Custom bots, panels and automation.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=razercoder0&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=razer&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razercoder0&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razer&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF"/>
 
 </div>
 
@@ -107,7 +107,7 @@ Custom bots, panels and automation.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=razercoder0&bg_color=0D1117&color=C084FC&line=9333EA&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=razerc&bg_color=0D1117&color=C084FC&line=9333EA&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -117,7 +117,7 @@ Custom bots, panels and automation.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=razercoder0&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=razer&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
