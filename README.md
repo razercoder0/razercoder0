@@ -116,7 +116,7 @@ Custom Discord bots and automation.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=razercoder0&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -124,7 +124,7 @@ Custom Discord bots and automation.
 
 # 💻 Developer Mode
 
-  java
+`  java   `
 public class Razer {
 
     private final String[] languages = {
@@ -147,14 +147,14 @@ public class Razer {
         }
     }
 }
-
+`
 
 
 <div align="center">
 
 ### `BUILDING SOMETHING GREAT.`
 
-one commit at a time.
+`one commit at a time.`
 
 <br>
 
