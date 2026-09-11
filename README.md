@@ -105,7 +105,7 @@ Custom bots, panels and automation.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=razercoder0&bg_color=0D1117&color=C084FC&line=9333EA&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://ghchart.rshah.org/A855F7/razercoder0" alt="Razer's Github chart"/>
 
 </div>
 
