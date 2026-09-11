@@ -95,7 +95,7 @@ Custom bots, panels and automation.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=razercoder0&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF"/>
+<img height="180" src="https://streak-stats.demolab.com?user=razercoder0&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
 
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=razercoder0&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF"/>
 
