@@ -83,14 +83,12 @@ Custom Discord bots and automation.
 
 # ⚡ Currently Building
 
-```text
-🎮 Minecraft Systems
-🤖 Discord Automation
-💻 New Projects
-🧠 Learning & Improving
+- 🎮 Minecraft Systems
+- 🤖 Discord Automation
+- 💻 New Projects
+- 🧠 Learning & Improving
 
-
-
+---
 
 # 📊 GitHub Stats
 
@@ -102,7 +100,7 @@ Custom Discord bots and automation.
 
 </div>
 
-
+---
 
 # 🔥 Contribution Graph
 
@@ -112,7 +110,7 @@ Custom Discord bots and automation.
 
 </div>
 
-
+---
 
 # 🏆 GitHub Trophies
 
@@ -126,7 +124,7 @@ Custom Discord bots and automation.
 
 # 💻 Developer Mode
 
-java
+  java
 public class Razer {
 
     private final String[] languages = {
@@ -156,7 +154,7 @@ public class Razer {
 
 ### `BUILDING SOMETHING GREAT.`
 
-`one commit at a time.`
+one commit at a time.
 
 <br>
 
