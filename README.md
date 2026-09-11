@@ -1,18 +1,35 @@
+<div align="center">
 
-# Building things that shouldn't exist
+# 👾 Razer
 
-Minecraft systems · Discord tooling · Win32 · Web
+### `< Building things that shouldn't exist />`
 
-![Java](https://img.shields.io/badge/Java-0C447C?style=flat&labelColor=E6F1FB&color=E6F1FB&logoColor=0C447C&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-3C3489?style=flat&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-633806?style=flat&labelColor=FAEEDA&color=FAEEDA&logoColor=633806&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-27500A?style=flat&labelColor=EAF3DE&color=EAF3DE&logoColor=27500A&logo=nodedotjs)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Minecraft+Systems+Developer;Discord+Bot+Builder;Win32+%2F+C%2B%2B+Enjoyer;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💻 Developer
+# ⚡ Currently Building
+
+- 🎮 **Minecraft Systems** — anticheats, mods, ghost clients
+- 🤖 **Discord Automation** — bots, admin panels, webhooks
+- 💻 **Win32 Tooling** — C++ DLLs, injectors, GUIs
+- 🌐 **Web Projects** — dashboards, APIs, Node.js backends
+- 🧠 **Always Learning & Improving**
+
+---
+
+# 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+# 💻 Developer Mode
 
 ```java
 public class Razer {
@@ -31,9 +48,11 @@ public class Razer {
         "Admin Panels", "REST APIs", "Automation"
     };
 
-    public void run() {
+    public void build() {
         while (true) {
-            learn(); build(); ship(); repeat();
+            learn();
+            create();
+            improve();
         }
     }
 }
@@ -41,7 +60,7 @@ public class Razer {
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -51,6 +70,10 @@ public class Razer {
 
 </div>
 
+---
+
+# 🔥 Contribution Graph
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=razercoder0&bg_color=0D1117&color=C084FC&line=9333EA&point=FFFFFF&area=true&hide_border=true"/>
@@ -58,6 +81,8 @@ public class Razer {
 </div>
 
 ---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
